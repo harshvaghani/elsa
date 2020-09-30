@@ -8,7 +8,7 @@ It's based on scripts from `PyLadies.cz repo <https://github.com/PyLadiesCZ/pyla
    :alt: Elsa
 
 
-Basic usage
+Basic usage 
 -----------
 
 Create you Flask app and give it to ``elsa.cli()``:
@@ -78,8 +78,8 @@ To run the test suite, install `tox <http://tox.readthedocs.io/>`_ and run it::
 Elsa uses pytest, so if you are familiar with it, feel free to run  it directly.
 
 
-
-Further notes
+ 
+Further notes for this 
 -------------
 
 URLs
